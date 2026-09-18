@@ -4,8 +4,6 @@ A simple, text-only bus schedule system for the MA-AO ↔ BACOLOD route in Negro
 
 ## The Goal
 
-## The Goal
-
 I built this because I am lazy to wait outside too long.
 
 I live along the MA-AO ↔ BACOLOD route. Every morning, I stand on the roadside not knowing if the bus will come in 5 minutes or 25 minutes. Sometimes I wait too long. Sometimes I go outside too early and the bus is late. I wanted a simple answer to one question: *"When should I go outside?"*
