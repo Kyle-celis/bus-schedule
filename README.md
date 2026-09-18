@@ -36,4 +36,3 @@ It is not perfect. Buses are late. Traffic happens. But a fixed timetable is bet
 - Admin CRUD for buses, routes, and schedules
 - Argon2 password hashing
 
-## Project Structure
